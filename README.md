@@ -14,5 +14,9 @@ On the other hand, when there are no matches, the loop is interrupted and at the
 
 # The complexity of this algorithm:
 
-This algorithm uses two loops to match and match the letters in the tape that can be displayed in the substring. All available tapes in the word array are checked. This check is supplemented by finding the location of a certain element, as an incentive. As a result, you can get the product of lengths: tape and substring. So, O(N x M).
+This algorithm uses two loops to match and match the letters in the tape that can be displayed in the substring. All available tapes in the word array are checked. This check is supplemented by finding the location of a certain element, as an incentive. As a result, you can get the multiplication of lengths: tape and substring. So, O(N x M).
+N - the length of the string from the given letters.
+M - the length of the substring with the matches found in the words.
+
+# Using:
 
