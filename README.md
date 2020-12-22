@@ -28,4 +28,4 @@ Firstly, download repository: git clone https://github.com/Nazarko12/NaiveAlgori
 
 Use git to install this laboratory.
 
-git clone https://github.com/Nazarko12/lab_5.git .
+git clone https://github.com/Nazarko12/lab5.git .
