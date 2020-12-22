@@ -24,3 +24,8 @@ Programming language: Python.
 
 Firstly, download repository: git clone https://github.com/Nazarko12/NaiveAlgorithm.git. Then you need to open package: "cd NaiveAlgorithm". After this.. Go to the branch "lab5": "git checkout lab5". Run the file: substring_search.py.
 
+#Installation:
+
+Use git to install this laboratory.
+
+git clone https://github.com/Nazarko12/lab_5.git .
