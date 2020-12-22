@@ -20,3 +20,7 @@ M - the length of the substring with the matches found in the words.
 
 # Using:
 
+Programming language: Python.
+
+Firstly, download repository: git clone https://github.com/Nazarko12/NaiveAlgorithm.git. Then you need to open package: "cd NaiveAlgorithm". After this.. Go to the branch "lab5": "git checkout lab5". Run the file: substring_search.py.
+
